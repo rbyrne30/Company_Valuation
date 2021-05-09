@@ -1,6 +1,6 @@
-#Company Valuations
+# Company Valuations
 
-####Just a little project to get to know if a company may be a valuable asset or should be casted aside.
+#### Just a little project to get to know if a company may be a valuable asset or should be casted aside.
 
 This is just a playground to get to learn a bit more about finance and investing strategies within the market.
 

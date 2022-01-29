@@ -35,4 +35,5 @@ if __name__ == "__main__":
     for entry in entries:
         print(entry['title'])
         print(entry['published'])
+        print(entry.keys())
         print("")
